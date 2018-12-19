@@ -4,7 +4,7 @@ This is my personal Tmux configuration that I use. It's based on https://github.
 
 ### Appearance
 
-![Screenshot](https://git.linux-help.org/psi-jack/my-tmux/src/branch/master/tmux1.png)
+![Screenshot](https://git.linux-help.org/psi-jack/my-tmux.git/info/lfs/objects/e6375f64c94d8ba847743141a679e9a403123ba65c20584b995be4304330259e/dG11eDEucG5n)
 
 ### License
 
